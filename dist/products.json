@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Cold Shoulder Pencil Dress",
+        "price": 20,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-19.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 2,
+        "name": "black floral full sleeve Dress ",
+        "price": 60,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-16.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 3,
+        "name": "Yellow Fluted Sleeve Shift Dress ",
+        "price": 48,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-15.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 4,
+        "name": "Print Off Shoulder Dress ",
+        "price": 32,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-14.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 5,
+        "name": "Pink Front V neck Dress",
+        "price": 56,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-13.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 6,
+        "name": "Loose kimono",
+        "price": 16,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-12.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 7,
+        "name": "Bridesmaid Structured Lace Midi Dress",
+        "price": 82,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-11.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 8,
+        "name": "Navy Short Sleeve Shirt Dress",
+        "price": 35,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-10.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 9,
+        "name": "Zip-Up Fit  Sleeve less Flare Dress",
+        "price": 60,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-17.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 10,
+        "name": "Old Shoulder Fit and Flare Dress",
+        "price": 75,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-18.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 11,
+        "name": "Jual Kaos Mango Wanita Original",
+        "price": 22,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-9.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 12,
+        "name": "Broderie Sleeve Detail Sweatshirt",
+        "price": 48,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-8.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 13,
+        "name": "Blush Long Trench",
+        "price": 75,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-7.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 14,
+        "name": "Nightgown",
+        "price": 16,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-5.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 15,
+        "name": "Kaftan Pleated Skirt",
+        "price": 72,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-4.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 16,
+        "name": "Empire line Dress ",
+        "price": 45,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-3.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 17,
+        "name": "Mandarin Collar Top",
+        "price": 60,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-2.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 18,
+        "name": "Casual Full sleeve Skirt",
+        "price": 75,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-1.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 19,
+        "name": "Garnet Maxi Dress",
+        "price": 36,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-16.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 20,
+        "name": "OZip-Up and Flare Dress",
+        "price": 75,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-17.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 21,
+        "name": "Shoulder Ft & Flare Dress",
+        "price": 69,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-18.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 22,
+        "name": "Cold-Shoulder-Pencil-Dress",
+        "price": 95,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-19.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 23,
+        "name": "rizalman bridal wear dress",
+        "price": 60,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-20.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 24,
+        "name": "yellow Fluted Sleeve Shift Dress ",
+        "price": 80,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-15.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 25,
+        "name": "Cold Shoulder Fit and Flare Dress",
+        "price": 28,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-14.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 26,
+        "name": "pink Waterfall Front V neck Dress",
+        "price": 20,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-13.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 27,
+        "name": "Loose kimono party dress",
+        "price": 90,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-12.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 28,
+        "name": "Bridesmaid Structured Lace Midi Dress ",
+        "price": 50,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-11.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 29,
+        "name": "Work dress essentials - sleeveless shift dress",
+        "price": 60,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-10.jpg",
+        "category": "clothes"
+    },
+    {
+        "id": 30,
+        "name": "Jual Kaos Mango Wanita Original",
+        "price": 70,
+        "image": "https://res.cloudinary.com/debray/image/upload/v1530593949/image-9.jpg",
+        "category": "clothes"
+    }
+]
