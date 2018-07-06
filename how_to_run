@@ -1,0 +1,11 @@
+-its working set up node 8.11.3
+How to run :
+  - npm install
+  - webpack or webpack-dev-server
+  We can use any other light weight web server
+  
+  Hosting in Firebase :
+    - install firebase and firebase-tools
+    - then go to project .then type firebase-init
+    - select public directory as dist
+    - then firebase deploy.
