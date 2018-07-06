@@ -39,10 +39,11 @@
 }
 .quick-view-details{
     padding: 24px;
-    background: $gray-medium-bg;
+    background: #00c4c8;
     border-radius: 0 0 4px 4px;
     .product-price{
         font-size: 18px;
+
     }
     .product-price{
         color: $primary-green;
@@ -52,6 +53,9 @@
         &:before{
             content: "$ ";
         }
+    }
+    .product-name{
+        color: $primary-green;
     }
 }
 .quick-view-image{
