@@ -1,7 +1,7 @@
 {
   "name": "react-shopping-cart",
   "version": "0.0.1",
-  "description": "simple react shopping cart without using redux",
+  "description": "GrabPay",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,13 @@
     "shopping",
     "cart"
   ],
-  "author": "Sivadass",
+  "author": "Dummy",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.1",
     "node-fetch": "^2.1.2",
     "prop-types": "^15.5.10",
+    "qrcode.react": "^0.8.0",
     "react": "^16.0.0",
     "react-custom-scrollbars": "^4.1.1",
     "react-dom": "^16.0.0",

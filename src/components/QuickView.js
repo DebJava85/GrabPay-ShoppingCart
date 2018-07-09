@@ -1,23 +1,24 @@
 import React, {Component} from 'react';
 import {findDOMNode} from 'react-dom';
+var QRCode = require('qrcode.react');
 
 class QuickView extends Component{
-  constructor(props){
-    super(props);
-  }
+	constructor(props){
+		super(props);
+	}
   componentDidMount() {
-    document.addEventListener('click', this.handleClickOutside.bind(this), true);
-  }
+		document.addEventListener('click', this.handleClickOutside.bind(this), true);
+	}
 
-  componentWillUnmount() {
-    document.removeEventListener('click', this.handleClickOutside.bind(this), true);
-  }
+	componentWillUnmount() {
+		document.removeEventListener('click', this.handleClickOutside.bind(this), true);
+	}
 
-  handleClickOutside(event) {
+	handleClickOutside(event) {
     const domNode = findDOMNode(this.refs.modal);
-    if (!domNode || !domNode.contains(event.target)) {
-      this.props.closeModal();
-    }
+		if (!domNode || !domNode.contains(event.target)) {
+			this.props.closeModal();
+		}
   }
 
   handleClose(){
@@ -33,13 +34,15 @@ class QuickView extends Component{
                  marginRight : "20px"
        };
         var qrsectionStyle = {
-                 width: "65px",
-                 height: "65px",
+                 width: "75px",
+                 height: "75px",
                  marginRight : "20px"
        };
-
-
+    
+    let grabQrCode = "exp://exp.host/@vgrab/vgrab?id="+this.props.product.id;
+    console.log(grabQrCode);
     return(
+      
       <div className={this.props.openModal ? "modal-wrapper active" : "modal-wrapper"}>
         <div className="modal" ref="modal">
           <button type="button" className="close" onClick={this.handleClose.bind(this)}>&times;</button>
@@ -48,7 +51,8 @@ class QuickView extends Component{
            
             <div className="quick-view-details">
               <span><img src={cartImage} style={sectionStyle} alt={this.props.product.name} /></span>
-              <span><img src={qrImage} style={qrsectionStyle} alt={this.props.product.name} /></span>
+               
+              <span><QRCode value={grabQrCode} style={qrsectionStyle} /></span>
               <span className="product-name">{this.props.product.name}</span>
               <span className="product-price">{this.props.product.price}</span>
 
